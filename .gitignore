@@ -36,6 +36,8 @@ _pycache_/
 .terraform.lock.hcl 
 *.parquet
 service-account*.json 
+.DS_Store
+.DS_Store?
 
 
 # PyInstaller
