@@ -47,7 +47,7 @@ A production-grade data platform processing e-commerce clickstream events throug
 
 ### Step 1 — Clone and install
 ```bash
-git clone https://github.com/yourname/clickstream-analytics-platform
+git clone https://github.com/kavyasreemaniga/clickstream-analytics-platform
 cd clickstream-analytics-platform
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
