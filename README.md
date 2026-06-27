@@ -1,5 +1,5 @@
 # Clickstream Analytics Platform
-### FullStory-inspired E-Commerce Behavioral Data Pipeline
+### E-Commerce Behavioral Data Pipeline
 
 A production-grade data platform processing e-commerce clickstream events through a full medallion architecture with AI-powered analytics.
 
